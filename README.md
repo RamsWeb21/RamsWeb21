@@ -1,6 +1,6 @@
 Programer | Front-end developer | Gamer
 
-- 👋 Hi, I’m @RamsWeb21
+- 👋 Hi, I’m RamsWeb
 - 👀 I’m interested in programing (javascript, php, python, kali linux, etc)
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on everyone
